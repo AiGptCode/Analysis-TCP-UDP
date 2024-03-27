@@ -1,4 +1,4 @@
-الگوی یک README برای پروژه‌ی امنیت سایبری به شکل زیر است:
+
 
 # Cybersecurity System Analysis Tcp Udp
 
