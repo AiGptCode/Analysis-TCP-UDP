@@ -1,6 +1,4 @@
-
-
-# Cybersecurity System Analysis Tcp Udp
+# Cyber security System Analysis Tcp Udp
 
 ## Description
 This project implements a cybersecurity system for detecting anomalies and intrusions in network traffic. It utilizes machine learning models, network monitoring tools, and intrusion detection systems to monitor and respond to security threats in real-time.
