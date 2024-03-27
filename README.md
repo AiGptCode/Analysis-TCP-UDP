@@ -12,7 +12,7 @@ This project implements a cybersecurity system for detecting anomalies and intru
 ## Usage
 1. Initialize the cybersecurity system:
    ```bash
-   python main.py
+   python atu.py
    ```
 2. Monitor network traffic and detect anomalies:
    - The system will start detecting intrusions based on alerts and logs from Snort and Zeek.
